@@ -1,0 +1,9 @@
+# ignore compiled executables
+*.exe
+
+# ignore word documents
+*.docx
+*.doc
+
+# ignore object files
+*.o
